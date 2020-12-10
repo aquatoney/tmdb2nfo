@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+  <title>NFO_TITLE</title>
+  <originaltitle>NFO_ORIGINAL_TITLE</originaltitle>
+  <dateadded></dateadded>
+  <releasedate>NFO_RELEASE_DATE</releasedate>
+  <art>
+    <poster>NFO_POSTER</poster>
+  </art>
+  <year>NFO_YEAR</year>
+  <plot>NFO_PLOT</plot>
+  <outline>NFO_OUTLINE</outline>
+  <genre>NFO_GENRE</genre>
+  <tagline>NFO_TAGLINE</tagline>
+  <set>NFO_SET</set>
+  <rating>NFO_RATING</rating>
+  <top250>NFO_TOP_250</top250>
+  <votes>NFO_VOTES</votes>
+  <runtime>NFO_RUNTIME</runtime>
+  <thumb>NFO_THUMB</thumb>
+  <mpaa>NFO_MPAA</mpaa>
+  <studio>NFO_STUDIO</studio>
+  <trailer>NFO_TRAILER</trailer>
+  <credits>NFO_CREDITS</credits>
+  <director>NFO_DIRECTOR</director>
+  <uniqueid default="true" type="imdb">NFO_UNIQUE_ID</uniqueid>
+  NFO_OTHERS
+</movie>
